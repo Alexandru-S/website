@@ -1,9 +1,9 @@
 from flask import Flask
-
+from flask_debug import Debug
 import os
 
 app = Flask(__name__)
-
+Debug(app)
 
 from project.index.views import index_blueprint
 from project.admin.views import admin_blueprint
