@@ -7,39 +7,39 @@ angular 8 front end
 
 Commands to run the website
 
-#Prerequisites
+# Prerequisites
 
 List of pre-requisites to run the example
 
-#Installing
+# Installing
 
 Steps to install the examles
 
-#Running the tests
+# Running the tests
 
 Steps to running the tests
 
-#Deployment
+# Deployment
 
 Information on deployment
 
-#Contributing
+# Contributing
 
 List of contributing
 
-#Versioning
+# Versioning
 
 Information on versions
 
-#Authors
+# Authors
 
 Alexandru Sulea
 
-#License
+# License
 
 Information on licence
 
-#Acknowledgments
+# Acknowledgments
 
 List of acknowledgements for people
 
