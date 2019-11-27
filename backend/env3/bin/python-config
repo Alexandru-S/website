@@ -1,4 +1,4 @@
-#!/home/owner/Desktop/website/backend/env3/bin/python
+#!/home/alex_sulea/website/backend/env3/bin/python
 
 import sys
 import getopt
