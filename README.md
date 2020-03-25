@@ -1,6 +1,6 @@
 # Personal Website
 A personal website
-flask backend
+Django backend
 angular 8 front end
 
 # Getting Started
