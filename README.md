@@ -23,10 +23,6 @@ Steps to running the tests
 
 Information on deployment
 
-# Contributing
-
-List of contributing
-
 # Versioning
 
 Information on versions
