@@ -44,3 +44,6 @@ Thumbs.db
 # settings files#
 ######################
 /mywebsite/mywebsite/settings.py
+
+# env variables #
+env3
