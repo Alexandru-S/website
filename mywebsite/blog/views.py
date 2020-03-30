@@ -18,6 +18,7 @@ posts = [
 
 
 ]
+
 # function to render homepage template
 def home(request):
     context = {'posts':posts,'title':'Home'}
