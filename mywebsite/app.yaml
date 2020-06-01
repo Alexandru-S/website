@@ -4,7 +4,7 @@ runtime: python37
 entrypoint: gunicorn -b :$PORT mywebsite.wsgi
 
 beta_settings:
-    cloud_sql_instances: website-260119:europe-west1:website-posgre-instance
+    cloud_sql_instances: mywebsite-278921:europe-west1:website-posgre-instance
 
 handlers:
 # This configures Google App Engine to serve the files in the app's static
