@@ -22,6 +22,8 @@ pip -r install requirements.txt
 
 Steps to running the tests
 
+python manage.py runserver
+
 # Deployment
 
 Information on deployment
