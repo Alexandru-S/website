@@ -15,7 +15,7 @@ List of pre-requisites to run the example
 
 # Installing
 
-Steps to install the examles
+Steps to install the examples
 pip -r install requirements.txt
 
 # Running the tests
@@ -27,6 +27,7 @@ python manage.py runserver
 # Deployment
 
 Information on deployment
+cd website
 gcloud app deploy
 
 # Versioning
