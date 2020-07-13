@@ -22,6 +22,10 @@ pip -r install requirements.txt
 
 Steps to running the tests
 
+
+#Running locally
+./cloud_sql_proxy -instances=INSTANCE_NAME=tcp:5432
+
 python manage.py runserver
 
 # Deployment
