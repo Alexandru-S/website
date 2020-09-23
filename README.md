@@ -8,26 +8,26 @@ angular 8 front end
 Commands to run the website
 
 # Prerequisites
-cd website/mywebsite
-python manage.py runserver
+`cd website/mywebsite`  
+`python manage.py runserver`
 
 List of pre-requisites to run the example
 
 # Installing
 
-Steps to install the examles
-pip -r install requirements.txt
+Steps to install the examples  
+`pip -r install requirements.txt`
 
 # Running the tests
 
 Steps to running the tests
 
-python manage.py runserver
+`python manage.py runserver`
 
 # Deployment
 
-Information on deployment
-gcloud app deploy
+Information on deployment  
+`gcloud app deploy`
 
 # Versioning
 
